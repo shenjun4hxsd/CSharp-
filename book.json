@@ -1,7 +1,13 @@
 {
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    },
+    "dirction": "沈军",
     "title": "C#入门经典最新版",
-    "description": "本书内容作为学习 Unity 的语言基础",
     "language": "简体中文",
-    "dirction": "沈军"
-
+    "description": "本书内容作为学习 Unity 的语言基础"
 }
