@@ -16,7 +16,7 @@
             "title": "",
             "button": "赏",
             "alipayText": "/assets/alipay.PNG",
-            "wechatText": "微信打赏"
+            "wechatText": "/assets/wechat.PNG"
         }
     },
     "gitbook": ">=2.0.0",
