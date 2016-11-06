@@ -8,7 +8,7 @@
             "family": "sans",
             "size": 2
         },
-        "expandable-chapteers""{}
+        "expandable-chapteers":{}
     },
     "gitbook": ">=2.0.0",
     "dirction": "沈军",
