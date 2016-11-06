@@ -11,8 +11,8 @@
         },
         "expandable-chapteers":{},
         "donate": {
-            "wechat": "",
-            "alipay": "",
+            "wechat": "微信打赏",
+            "alipay": "支付宝打赏",
             "title": "",
             "button": "赏",
             "alipayText": "/assets/alipay.PNG",
