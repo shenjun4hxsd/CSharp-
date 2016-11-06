@@ -12,6 +12,11 @@
         "expandable-chapteers":{},
         "donate": {
             "wechat": "",
+            "alipay": "",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
         }
     },
     "gitbook": ">=2.0.0",
