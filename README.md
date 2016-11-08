@@ -32,21 +32,20 @@
 &emsp;
 
 
-### 感谢您对本资料的支持！😄
+### 感谢您对本资料的支持！
 
 <div align=center>
 <img src="/assets/wechat.PNG" width = "200" height = "200" alt="图片名称" align=center />
 </div>
-
+####微信赞助100元😄
 &emsp;
 
 &emsp;
 
 <div align=center>
 <img src="/assets/alipay.PNG" width = "200" height = "200" alt="图片名称" align=center />
-
 </div>
-
+####支付宝赞助100元😄
 
 &emsp;
 
