@@ -41,7 +41,7 @@
 
 <img src="/assets/alipay.PNG" width = "50%" height = "50%" alt="图片名称" align=center />
 </div>
-<BR>
+
 
 
 &emsp;
