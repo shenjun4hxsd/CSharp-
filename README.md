@@ -33,6 +33,8 @@
 
 
 ### 感谢您对本资料的支持！😄
+<img src="/assets/wechat.PNG" width = "300" height = "200" alt="图片名称" align=center />
+
 ![](/assets/wechat.PNG =100*20)
 ![](/assets/alipay.PNG)
 
