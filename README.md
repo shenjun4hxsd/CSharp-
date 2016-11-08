@@ -35,7 +35,6 @@
 ### 感谢您对本资料的支持！😄
 
 <div class='all-img'>
-
 <img src="/assets/wechat.PNG" width = "20%" height = "20%" alt="图片名称" align=center />
 <img src="/assets/alipay.PNG" width = "20%" height = "20%" alt="图片名称" align=center />
 
