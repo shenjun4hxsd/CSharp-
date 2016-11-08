@@ -36,10 +36,10 @@
 
 <div align=center>
 
-<img src="/assets/wechat.PNG" width = "50%" height = "50%" alt="图片名称" align=center />
+<img src="/assets/wechat.PNG" width = "200" height = "200" alt="图片名称" align=center />
 
 
-<img src="/assets/alipay.PNG" width = "40%" height = "40%" alt="图片名称" align=center />
+<img src="/assets/alipay.PNG" width = "200" height = "200" alt="图片名称" align=center />
 
 </div>
 
