@@ -2,12 +2,12 @@
 
 <style>
 .all-img{
-width:400px;
-margin:0 auto;
-border:1px solid red;
+    width:400px;
+    margin:0 auto;
+    border:1px solid red;
 }
 .all-img img{
-float:left;
-width:100px;
+    float:left;
+    width:100px;
 }
 </style>
