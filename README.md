@@ -31,6 +31,12 @@
 
 &emsp;
 
+
+### 感谢您对本资料的支持！😄
+![](/assets/wechat.PNG)
+![](/assets/alipay.PNG)
+
+
 &emsp;
 
 &emsp;
