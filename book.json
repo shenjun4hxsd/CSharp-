@@ -21,7 +21,7 @@
         }
     },
     "gitbook": ">=2.0.0",
-    "direction": "沈军",
+    "dirction": "沈军",
     "title": "C#入门经典最新版",
     "language": "zh-cn",
     "description": "本书内容作为学习 Unity 的语言基础"
