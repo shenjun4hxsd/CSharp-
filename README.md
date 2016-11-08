@@ -37,17 +37,9 @@
 <div class='all-img'>
 <img src="/assets/wechat.PNG" width = "50%" height = "50%" alt="图片名称" align=center />
 
-<img src="/assets/alipay.PNG" width = "50%" height = "50%" alt="图片名称" align=center />
-</div>
-
-<div class='all-img'>
-
-<img src="/assets/wechat.PNG" width = "50%" height = "50%" alt="图片名称" align=center />
-
-
+&emsp;
 
 <img src="/assets/alipay.PNG" width = "50%" height = "50%" alt="图片名称" align=center />
-
 </div>
 
 
