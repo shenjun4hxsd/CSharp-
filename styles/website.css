@@ -1,1 +1,13 @@
 /* CSS for website */
+
+<style>
+.all-img{
+width:400px;
+margin:0 auto;
+border:1px solid red;
+}
+.all-img img{
+float:left;
+width:100px;
+}
+</style>
