@@ -37,7 +37,7 @@
 <div align=center>
 <img src="/assets/wechat.PNG" width = "200" height = "200" alt="图片名称" align=center />
 </div>
-####微信赞助100元😄
+<center>微信赞助100元😄</center>
 &emsp;
 
 &emsp;
@@ -45,7 +45,7 @@
 <div align=center>
 <img src="/assets/alipay.PNG" width = "200" height = "200" alt="图片名称" align=center />
 </div>
-####支付宝赞助100元😄
+<center>支付宝赞助100元😄</center>
 
 &emsp;
 
