@@ -33,7 +33,7 @@
 
 
 ### 感谢您对本资料的支持！😄
-![](/assets/wechat.PNG = 100*20)
+![](/assets/wechat.PNG =100*20)
 ![](/assets/alipay.PNG)
 
 
