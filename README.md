@@ -34,7 +34,9 @@
 
 ### 感谢您对本资料的支持！😄
 
-<img src="/assets/wechat.PNG" width = "50%" height = "50%" alt="图片名称" align=center />
+
+<img src="/assets/wechat.PNG" width = "20%" height = "20%" alt="图片名称" align=center />
+<img src="/assets/alipay.PNG" width = "20%" height = "20%" alt="图片名称" align=center />
 
 
 
