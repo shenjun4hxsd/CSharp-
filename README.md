@@ -53,10 +53,6 @@
 
 &emsp;
 
-<div align=center>
-<img src="/assets/alipay.PNG" width = "200" height = "200" alt="图片名称" align=center />
-</div>
-<center>支付宝赞助100元😄</center>
 
 &emsp;
 
