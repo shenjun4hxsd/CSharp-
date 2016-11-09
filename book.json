@@ -1,7 +1,7 @@
 {
     "plugins": [
         "-search",
-        "expandable-chapters",
+        "expandable-chapters"
     ],
     "pluginsConfig": {
         "fontsettings": {
