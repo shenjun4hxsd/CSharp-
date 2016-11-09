@@ -2,7 +2,6 @@
     "plugins": [
         "-search",
         "expandable-chapters",
-        "donate"
     ],
     "pluginsConfig": {
         "fontsettings": {
@@ -10,15 +9,7 @@
             "family": "sans",
             "size": 2
         },
-        "expandable-chapteers":{},
-        "donate": {
-            "wechat": "/assets/alipay.PNG",
-            "alipay": "/assets/wechat.PNG",
-            "title": "",
-            "button": "赏",
-            "alipayText": "微信打赏",
-            "wechatText": "支付宝打赏"
-        }
+        "expandable-chapteers":{}
     },
     "gitbook": ">=2.0.0",
     "dirction": "沈军",
