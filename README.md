@@ -43,12 +43,7 @@
 
 &emsp;
 
-### 感谢您的支持！
 
-<div align=center>
-<img src="/assets/wechat.PNG" width = "200" height = "200" alt="图片名称" align=center />
-</div>
-<center>微信赞助100元😄</center>
 &emsp;
 
 &emsp;
