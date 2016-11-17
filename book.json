@@ -1,15 +1,13 @@
 {
     "plugins": [
-        "-search",
-        "expandable-chapters"
+        "-search"
     ],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "white",
             "family": "sans",
             "size": 2
-        },
-        "expandable-chapteers":{}
+        }
     },
     "gitbook": ">=2.0.0",
     "dirction": "沈军",
