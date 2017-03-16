@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "-search"
+    "-search"
     ],
     "pluginsConfig": {
         "fontsettings": {
@@ -8,10 +8,10 @@
             "family": "sans",
             "size": 2
         }
-    },
+     },
     "gitbook": ">=2.0.0",
     "dirction": "沈军",
-    "title": "C#入门经典最新版",
+    "title": "博军一笑的个人主页",
     "language": "zh-cn",
-    "description": "本书内容作为学习 Unity 的语言基础"
+    "description": "天道酬勤"
 }
